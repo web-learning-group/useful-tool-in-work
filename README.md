@@ -1,6 +1,6 @@
 # <h1>Useful Tools in Daily Work</h1>
 This repository is used to collect useful tools that can improve our daily work.<br>
-[Common Tool](#1-common-tool) | [Back-end Tool](#2-back-end-tool) | [Font-end Tool](#3-font-end-tool) | [Common Tool](#4-good-documents-or-tutorials-tool)
+[Common Tool](#1-common-tool) | [Back-end Tool](#2-back-end-tool) | [Font-end Tool](#3-font-end-tool) | [Good Documents & Tutorials](#4-good-documents-or-tutorials)
 
 ## 1 Common Tool
 <h4><a href="https://github.com/NickeManarin/ScreenToGif/releases">ScreenToGif</a></h4>
