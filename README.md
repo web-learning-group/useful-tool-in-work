@@ -1,4 +1,4 @@
-# <h1>Userful Tools in Daily Work</h1>
+# <h1>Useful Tools in Daily Work</h1>
 This repository is used to collect useful tools that can improve our daily work.
 
 <h2>1. Common Tool</h2>
