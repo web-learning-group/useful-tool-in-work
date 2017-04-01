@@ -16,6 +16,8 @@ This repository is used to collect useful tools that can improve our daily work.
 <h4><a href="https://www.getpostman.com/">Postman</a></h4>
 <p>Postman is an API development tool. You can also get it from chrome brower. <a href="https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en">Download the chrome extension</a></p>
 
+
+
 ## 3 Font-end Tool
 <h4><a href="https://ant.design/index-cn">Ant Design</a></h4>
 <p>This is a public UI library developed by Alibaba.</p>
@@ -29,3 +31,11 @@ This repository is used to collect useful tools that can improve our daily work.
 
 <h4><a href="http://www.ruanyifeng.com/blog/">ruanyifeng's blog</a></h4>
 <p>For Chinese, ruanyifeng's blog has a lot of web news, font-end and back-end technology sharing. You can find a lot of tutorials here</p>
+
+## 4 Community
+<h4><a href="http://www.infoq.com/cn/">InfoQ</a></h4>
+<p>You can find the latest news of Internet that are happening everyday!</p>
+
+<h4><a href="http://www.iteye.com/">ITeye</a></h4>
+<p>Another IT news website, just like the name, show the IT world through its eyes</p>
+
